@@ -1,0 +1,2 @@
+# CaffeModel
+caffe train proto
